@@ -1,3 +1,5 @@
+Please refer to the corresponding API repository [linked here](https://github.com/wung-s/payroll) for the scope of the project
+
 ### Start Application
 
     $ yarn start
